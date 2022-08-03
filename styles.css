@@ -26,6 +26,7 @@ body{
     font-size: 14px
 }
 
+
 .mainContainer{
     margin: 0 auto;
     max-width: 600px;
@@ -35,8 +36,8 @@ body{
 }
 
 .mainPhoto{
-    float: left;
     width: 50%;
+    margin: 0 35px 0 0;
     border-radius: 10px 0 0 10px;
 }
 .card{
@@ -44,7 +45,7 @@ body{
     width: 40%;
     padding-right: 25px;
     text-align: left;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 .cardText h1{
     font-size: 2rem;
